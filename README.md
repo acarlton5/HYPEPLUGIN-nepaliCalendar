@@ -26,7 +26,7 @@ A simple DankMaterialShell widget to display the current Nepali date (Bikram Sam
 
 ### Using CLI
 ```bash
-dms plugins install nepaliCalendar
+hype plugins install nepaliCalendar
 ```
 
 ## Configuration
